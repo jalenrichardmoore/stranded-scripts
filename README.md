@@ -26,7 +26,7 @@ This repository contains all necessary scripts for the Unity game, *Stranded*. *
 │   ├── LevelSelect.cs                    # Displays description for selected game mode
 │   ├── MainMenu.cs                       # Handles UI for the title screen
 │   ├── VictoryProgress.cs                # Handles UI for progress bar
-|-- README.md
+└── README.md
 ```
 
 ## **Dependencies**

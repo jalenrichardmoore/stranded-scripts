@@ -35,7 +35,7 @@ Unity Version: 2021.3.17
 ## **Installation & Usage**
 1. Clone the repository:
 ```sh
-git clone https://github.com/Jalen-Moore/stranded-scripts.git
+git clone https://github.com/jalenrichardmoore/stranded-scripts.git
 ```
 
 2. Copy the scripts into your Unity project's 'Assets/Scripts/' folder
